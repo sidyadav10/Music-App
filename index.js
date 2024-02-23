@@ -20,7 +20,7 @@ let index = 0;
 
 const songDataBase = [
   {
-    songSrc: "./audio/_Sher_(Official_Video)__Honsla_Rakh__Yeah_proof__Laddi_Chahal__Tips_Punjabi(128k).mp3",
+    songSrc: "audio/_Sher_(Official_Video)__Honsla_Rakh__Yeah_proof__Laddi_Chahal__Tips_Punjabi(128k).mp3",
     title: "Sher",
     artist: "Diljit Doshanj",
     imgSrc: "images/boy-1299588_1280.png",
