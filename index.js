@@ -60,8 +60,8 @@ const loadMusic = () => {
   songImgAtTheTop.src = songDataBase[index].imgSrc;
 };
 audio.addEventListener("ended", () => {
-  loadMusic(index++);
   play();
+  loadMusic(index++);
 });
 
 loadMusic();
